@@ -1,1 +1,4 @@
 Linea 1 Archivo file1
+Modificamos el archivo file1 con las siguiente lineas
+Estamos aprendiendo git
+Esto es una forma de controlar los cambios al archivo
